@@ -8,5 +8,4 @@ setup(
     author_email='fhu9hn@virginia.edu',
     description='A fantastic packkages that will not do much but certainly look awesome',
     license='MIT',
-    packages['demo'],
 )
